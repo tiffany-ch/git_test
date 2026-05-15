@@ -1,2 +1,2 @@
 # git_test
-README.md
+My first push to Git. Learning how to use Git and Github. 
